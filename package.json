@@ -28,7 +28,7 @@
     "slugshover": "bin/slugshover"
   },
   "dependencies": {
-    "minimist": "0.0.8",
+    "minimist": "1.2.5",
     "heroku-client": "^1.1.1",
     "q": "^1.0.0",
     "curling": "^0.3.0"
